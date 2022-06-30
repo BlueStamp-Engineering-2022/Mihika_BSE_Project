@@ -15,13 +15,13 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone](http://i3.ytimg.com/vi/_lzWTtVF1cE/hqdefault.jpg)]([https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"](https://www.youtube.com/watch?v=_lzWTtVF1cE)){:target="_blank" rel="noopener"}
+[![Third Milestone] {:target="_blank" rel="noopener"}
 # First Milestone
   
 
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
 
-[![First Milestone]([http://i3.ytimg.com/vi/_lzWTtVF1cE/hqdefault.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"]){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/_lzWTtVF1cE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_lzWTtVF1cE){:target="_blank" rel="noopener"}
 # Starter Project
 For my starter project I did a binary blaster. For this project I had to soulder parts together to create the game. On the first day I learned how to soulder so that I could start attaching parts to the board, and I finished the project on the second day. One problem that I had was after I finished souldering the parts together and putting the batteries in and the game didn't turn on. I later realized that it was because the batteries were not touching the battery clips. From this project I learned how to soulder, what each of the parts do, and how they are important to making the binary blaster game.   
 
