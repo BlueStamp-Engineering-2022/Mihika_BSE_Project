@@ -25,5 +25,5 @@ My first milestone was setting up the Raspberry Pi so that the modules would dis
 # Starter Project
 For my starter project I did a binary blaster. For this project I had to soulder parts together to create the game. On the first day I learned how to soulder so that I could start attaching parts to the board, and I finished the project on the second day. One problem that I had was after I finished souldering the parts together and putting the batteries in and the game didn't turn on. I later realized that it was because the batteries were not touching the battery clips. From this project I learned how to soulder, what each of the parts do, and how they are important to making the binary blaster game.   
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/WaEEWg6APXs/maxresdefault.jpg )](https://www.youtube.com/watch?v=WaEEWg6APXs){:target="_blank" rel="noopener"}
 
