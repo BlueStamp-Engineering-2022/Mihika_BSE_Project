@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was the modifications to the code. My modules displayed the weather, calander, time, and date. To that I added a spotify module to display the song I was currently listening to, and a remote that I could control the mirror with from my phone. With the spotify module it took me a while to get it to work because I was doing the steps wrong the first few times. With the mirror module I was able to get it done 
 
-[![Third Milestone] {:target="_blank" rel="noopener"}
+[![Third Milestone](https://i3.ytimg.com/vi/ZCut87Xebwo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCut87Xebwo) {:target="_blank" rel="noopener"}
 # First Milestone
   
 
