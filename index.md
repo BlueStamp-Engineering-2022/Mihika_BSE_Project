@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-My project is a smart mirror which is a two way mirror that can display the weather, time, date, calander, and the song I am listening to using Javascript modules. I also added a remote to control the mirror from my phone. 
+My project is a smart mirror that can display the weather, time, date, calander, and the song I am listening to using Javascript modules. I also added a remote to control the mirror from my phone. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
