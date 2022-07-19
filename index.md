@@ -8,7 +8,7 @@ My project is a smart mirror that can display the weather, time, date, calander,
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUQf3xrS7MDmg20rb1AlxZORzjR1jWzvvb1qYqFbGJLGscOLxWUUwFKQ-uiHoCnapbbF6D2hAR5C9JDSEywHSq2a1rDH5xPiqaw-QHFE9DD62Udsrk4LlPP9e6A2FUD4IwUT044gSDTeVL0-S96yXoe=w1408-h1406-no?authuser=0)
   
 # Final Milestone
-My final milestone was building the frame for the mirror so that I could put my project together. To start I had to figure out the dimentions of wood that I needed to cut. First I thought about wha
+My final milestone was building the frame for the mirror so that I could put my project together. To start I had to figure out the dimentions of wood that I needed to cut. First I thought about what measurements would work so that my mirror would fit in the frame without falling through. After building the frame I stained it a white color and let it dry for a day. Since my monitor was smaller than my mirror I added cardboard around it so that it would be the same size as the mirror. To mount the monitor on top, I added a plank of wood that would attach to the monitor and then be drilled to the sides of the frame. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
